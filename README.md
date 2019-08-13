@@ -41,4 +41,4 @@ where `tap-some-api` is [Singer Tap](https://singer.io).
 
 ---
 
-Copyright &copy; 2019 Himydata
+Copyright &copy; 2018 Himydata
